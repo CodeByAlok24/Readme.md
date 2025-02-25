@@ -1,4 +1,5 @@
-💫 About Me:
+
+# 💫 About Me:
 👋 Hi, I’m Alok<br>🚀 Passionate Coder | DSA Enthusiast | Full-Stack Explorer<br><br>A second-year BTech student diving deep into the world of algorithms and web technologies. I’m on a mission to blend problem-solving prowess with building scalable, user-friendly applications.<br><br>🔧 Tech Toolkit :-<br><br>I. DSA & C++: Solving problems on LeetCode/Codeforces, exploring STL, and optimizing code.<br><br>II. Web Development: Crafting responsive UIs with React.js, building backends with Node.js, and tinkering with databases (SQL & MongoDB).<br><br>III. Tools: Git, VS Code, Postman, Docker.
 
 
